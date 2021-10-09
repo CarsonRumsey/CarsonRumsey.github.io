@@ -1,0 +1,20 @@
+h1, h2,h3,h4,h5,h6{
+    font-size: 12px;
+}
+
+
+
+body{
+    background-color: green;
+}
+section{
+    background-color:skyblue;
+    font-size: 25px;
+}
+.latin{
+    color: hotpink;
+    text-align: left;
+    margin: 100px 50px;
+    padding: 25px;
+    border:10px solid black;
+}
