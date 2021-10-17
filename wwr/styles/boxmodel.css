@@ -1,0 +1,48 @@
+body{
+    background-color: green;
+}
+.about{
+    background-color: indianred;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 50%;
+    box-sizing: border-box;
+}
+.about h2{
+    color: skyblue;
+}
+.about p{
+    color: white;
+}
+.contact{
+  
+    background-color: blue;
+    
+}
+.info {
+    width: 150px;
+    text-align: center;
+    border-radius: 250px;
+    background-color: blueviolet;
+    height: 150;
+}
+.info h2{
+    font-size: 25px;
+    padding-top: 44px;
+}
+main{
+    display:grid;
+    grid-template-columns: 150px 1fr;
+    gap: 20px;
+    
+}
+Main section h1{
+    text-align: center;
+}
+main section{
+
+}
+main section div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
