@@ -1,0 +1,49 @@
+
+body{
+    background-color:black;
+}
+.ti h1{
+    grid-template: 1fr;
+color: white;
+text-align: center;
+font-size: 75px;
+}
+.ti img{
+    height: 150px;
+    width: 300px;
+    text-align: center;
+}
+.body img{
+    background-image: url("Faction-Tokens.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    border-radius: 50%;
+  }
+
+.nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+ text-align: center;
+ color: royalblue;
+}
+.sec3{
+    color: royalblue;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    
+}
+h2{
+    color: royalblue;
+    text-align: center;
+    font-size: 75px;
+}
+.bottom{
+    color: black;
+    text-align: center;
+    background-color: red;
+}
+.med{
+
+}
