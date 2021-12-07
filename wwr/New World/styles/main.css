@@ -19,7 +19,7 @@ font-size: 75px;
     text-align: center;
     color: white;
     position: absolute;
-  top: 12%;
+  top: 11%;
   left: 7%;
   transform: translate(-50%, -50%);
     border-radius: 50%;
@@ -86,3 +86,10 @@ p{
 footer a{
     text-decoration: none;
 }
+.nav a{
+    color: blue;
+    background-color: gray;
+    border-radius: 50px;
+    margin: 5px;
+  
+  }

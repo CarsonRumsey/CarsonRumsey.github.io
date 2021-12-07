@@ -34,7 +34,7 @@ font-size: 75px;
     text-align: center;
     color: white;
     position: absolute;
-  top: 12%;
+  top: 11%;
   left: 7%;
   transform: translate(-50%, -50%);
     border-radius: 50%;
@@ -66,12 +66,10 @@ font-size: 75px;
     background-color: white;
   }
   .main h5{
-    box-shadow: 2px 2px 2px yellow;
-    background-color: white;
+   
   }
   .main h6{
-    box-shadow: 2px 2px 2px yellow;
-    background-color: white;
+  
   }
   footer{
     background-color: tan;
@@ -81,4 +79,11 @@ font-size: 75px;
 }
 footer a{
   text-decoration: none;
+}
+.nav a{
+  color: blue;
+  background-color: gray;
+  border-radius: 50px;
+  margin: 5px;
+
 }
