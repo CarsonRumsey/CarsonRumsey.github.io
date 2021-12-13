@@ -8,7 +8,7 @@
 .med{
     position: relative;
     text-align: center;
-    color: white;
+    color: black;
     position: absolute;
   top: 12%;
   left: 50%;
@@ -30,7 +30,7 @@ font-size: 75px;
 .body img{
     position: relative;
     text-align: center;
-    color: white;
+    color: black;
     position: absolute;
   top: 11%;
   left: 7%;
@@ -38,33 +38,33 @@ font-size: 75px;
     border-radius: 50%;
   }
   body{
-      background-color: black;
+      background-color: lightslategray;
   }
   .main{
-    color: royalblue;
+    color: black;
     text-align: center;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
   .main h1{
-background-color: white;
-box-shadow: 2px 2px 2px yellow;
+background-color: goldenrod;
+box-shadow: 2px 2px 2px 2px lightskyblue;
   }
   .main h2{
     
     
   }
   .main h3{
-    background-color:gray;
-    box-shadow: 2px 2px 2px yellow;
-    text-align: left;
+    background-color:goldenrod;
+    box-shadow: 2px 2px 2px 2px lightskyblue;
+    text-align: center;
   }
   .main h4{
-    background-color: white;
-    box-shadow: 2px 2px 2px yellow;
+    background-color: goldenrod;
+    box-shadow: 2px 2px 2px 2px lightskyblue;
   }
   footer{
-    background-color: tan;
+    background-color: teal;
     text-decoration: none;
     padding: 25px 50px;
     margin-top: 200px;
@@ -73,16 +73,21 @@ footer a{
   text-decoration: none;
 }
 .main h3 a{
-  background-color: darkorange;
+  
   color: black;
-  margin: 350px;
-  padding: 3px ;
+  margin: px;
+  padding: 20px ;
+  ;
   
 }
 .nav a{
-  color: blue;
-  background-color: gray;
+  color: black;
+  background-color: teal;
   border-radius: 50px;
   margin: 5px;
-
+text-decoration: none;
+}
+h1 p1{
+  box-shadow: black 0px 5px 5px 5px;
+  padding: 5px;
 }

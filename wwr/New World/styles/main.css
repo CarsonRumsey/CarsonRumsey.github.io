@@ -1,12 +1,13 @@
 
 body{
-    background-color:black;
+    background-color: lightslategray;
 }
 .ti h1{
     grid-template: 1fr;
 color: white;
 text-align: center;
 font-size: 75px;
+
 
 }
 .ti img{
@@ -33,8 +34,8 @@ font-size: 75px;
  
 }
 .sec3{
-    color: royalblue;
-
+    color: black;
+    
     display: grid;
     grid-template-columns: 1fr 1fr;
     text-align: center;
@@ -69,14 +70,14 @@ h2{
 
 }
 footer{
-    background-color: tan;
+    background-color: teal;
     text-decoration: none;
     padding: 25px 50px;
     margin-top: 200px;
 }
 p{
-    box-shadow: 2px 2px 2px yellow;
-    background-color: white;
+    box-shadow: 2px 2px 2px 2px lightskyblue;
+    background-color: goldenrod;
     font-size: 25px;
 }
 .sec3 img{
@@ -87,9 +88,14 @@ footer a{
     text-decoration: none;
 }
 .nav a{
-    color: blue;
-    background-color: gray;
+    color: black;
+    background-color: teal;
     border-radius: 50px;
     margin: 5px;
+    text-decoration: none;
   
   }
+h1 p1{
+    box-shadow: black 0px 5px 5px 5px;
+    padding: 5px;
+}
